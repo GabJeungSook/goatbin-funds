@@ -38,10 +38,11 @@
 
     <div class="w-full sm:max-w-md mt-6 px-6 py-5 bg-white shadow-md overflow-hidden sm:rounded-lg">
       <div class="flex justify-center items-center flex-col space-y-2">
-        <img src="{{ asset('images/darbc.png') }}" class="h-14" alt="">
+        {{-- <img src="{{ asset('images/darbc.png') }}" class="h-14" alt=""> --}}
         <div class="flex justify-center text-center flex-col">
-          <h1 class="text-2xl font-bold font-montserrat text-green-800 ">Goat-Bin Fund Management</h1>
-          <p class="text-gray-700">Enter a valid account to continue signing in.</p>
+            <h1 class="font-black text-sidebar font-montserrat text-2xl">GOATBIN</h1>
+            <h1 class="font-semibold leading-3 text-green-800 text-md">Fund Manangement System</h1>
+          {{-- <p class="text-gray-700 text-sm mt-5">Enter a valid account to continue signing in.</p> --}}
         </div>
       </div>
       <div class="mt-5">

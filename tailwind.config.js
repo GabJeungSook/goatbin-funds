@@ -24,7 +24,7 @@ module.exports = {
         primary: colors.blue,
         success: colors.green,
         warning: colors.yellow,
-        sidebar: '#220068',
+        sidebar: '#008365',
       },
     },
   },
